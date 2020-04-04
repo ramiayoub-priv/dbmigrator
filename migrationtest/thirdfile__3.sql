@@ -1,0 +1,1 @@
+INSERT into dbmigrator_testone (column1,column2,column3) VALUES (30,31,'testing version 3');

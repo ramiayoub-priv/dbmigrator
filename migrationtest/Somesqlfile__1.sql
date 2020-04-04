@@ -1,0 +1,7 @@
+CREATE TABLE dbmigrator_testone
+(
+	id SERIAL NOT NULL PRIMARY KEY,
+	column1 INT NOT NULL,
+	column2 INT NOT NULL,
+	column3 VARCHAR(255) NOT NULL
+);
