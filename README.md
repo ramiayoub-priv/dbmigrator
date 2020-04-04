@@ -12,7 +12,7 @@ Where db is *sql.DB
 
 ## What it does
 
-1. Creates a table caled dbmigrator_versioning if it does not already exist
+1. Creates a table called dbmigrator_versioning if it does not already exist
 `CREATE TABLE IF NOT EXISTS dbmigrator_versioning
 	(
 		id SERIAL NOT NULL PRIMARY KEY,
